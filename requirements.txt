@@ -1,0 +1,7 @@
+streamlit
+transformers
+torch
+pymupdf
+pypdf2
+pandas
+cryptography
