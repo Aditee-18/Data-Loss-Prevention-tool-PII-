@@ -1,7 +1,9 @@
 streamlit
 transformers
-torch
 pymupdf
 pypdf2
 pandas
 cryptography
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+tf-keras
